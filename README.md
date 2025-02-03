@@ -1,7 +1,7 @@
-# 🛍️ Full-Stack E-Commerce Platform
+# 🛍️ Full-Stack Sequelize Platform
 
 ## Overview
-This is a full-stack e-commerce platform built with **JavaScript**, utilizing **Node.js, Express, Sequelize, and MySQL** for the backend, and **React.js** for the frontend. The platform supports authentication, CRUD functionalities, product management, user reviews, and account management.
+This is a full-stack sequelize platform built with **JavaScript**, utilizing **Node.js, Express, Sequelize, and MySQL** for the backend, and **React.js** for the frontend. The platform supports authentication, CRUD functionalities, product management, user reviews, and account management.
 
 ## 🚀 Features
 ### 🔒 Authentication
